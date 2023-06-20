@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=김태기입니다!)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=김태기입니다!)
