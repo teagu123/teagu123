@@ -25,7 +25,7 @@
 
 ---
 
-## 🔥 Skill
+## 🔥 기술 스택
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
