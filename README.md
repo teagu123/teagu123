@@ -49,9 +49,13 @@
      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
      <img src="https://img.shields.io/badge/Bun-787575?style=flat&logo=bun&logoColor=white" />
      <img src="https://img.shields.io/badge/Next.js-646CFF?style=flat&logo=Next.js&logoColor=white">
+     <br/>
+     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+     <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logoColor=white" />
      <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
+     <br/>
      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=black" />
-
+     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
    </div>
 </div>
 
