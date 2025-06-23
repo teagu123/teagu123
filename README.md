@@ -30,6 +30,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
       <h3>My Primary Stack</h1>
+      <img src="https://img.shields.io/badge/Next.js-646CFF?style=flat&logo=Next.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
@@ -48,7 +49,6 @@
      <h3>Experienced</h3>
      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
      <img src="https://img.shields.io/badge/Bun-787575?style=flat&logo=bun&logoColor=white" />
-     <img src="https://img.shields.io/badge/Next.js-646CFF?style=flat&logo=Next.js&logoColor=white">
      <br/>
      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
      <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logoColor=white" />
