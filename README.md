@@ -8,7 +8,7 @@
 - **멋쟁이사자처럼 12기 [FE 운영진]**  
   (2024.03 ~ 2024.12)
 
-- **코드잇 부트캠프 1기 광운대학교 [FE 매니저]**  
+- **코드잇 광운대학교 [FE 매니저]**  
   (2024.04 ~ 2024.09)
 
 ---
@@ -58,5 +58,6 @@
      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
    </div>
 </div>
+
 
 
