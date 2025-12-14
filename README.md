@@ -1,4 +1,4 @@
-#### Working Experience & Activities
+#### 🚀 Working Experience & Activities
 - 사이드프로젝트 (Snapcode - AI 기반 평가 플랫폼) → 국내 최대 규모 해커톤 1차 심사 도입, 창업 트랙 1차 심사 도입 성공
 - 스타트업 프론트엔드 인턴
 - LikeLion Official TF Team
@@ -16,3 +16,4 @@
 <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=taegi)](https://velog.io/@taegi)
+
